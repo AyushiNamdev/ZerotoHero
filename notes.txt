@@ -1,0 +1,19 @@
+strings are immutable
+we cannot reassign it to the same variable
+
+we can use concanate the code or string
+
+x = 'hello world'
+x+"it is beautiful assignement"
+
+Gives Hello world it is beautiful outside
+
+letter = 'z'
+letter*10
+zzzzzzzzz
+
+-----------
+2 +3 = 5
+
+'2' + '3' = 23
+
