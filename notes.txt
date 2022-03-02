@@ -17,3 +17,23 @@ zzzzzzzzz
 
 '2' + '3' = 23
 
+--------------
+
+
+If else, elif
+
+if some_condition:
+    execute some code
+elif some other condition:
+    execute
+else:
+    do somehing else
+
+
+-------------
+for loop
+my_iterable = [1,2,3]
+for item_name in my_iterable:
+    print(item_name)
+
+
